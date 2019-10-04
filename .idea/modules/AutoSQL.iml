@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="AutoSQL" external.linked.project.path="$MODULE_DIR$/../../AutoSQL" external.root.project.path="$MODULE_DIR$/../../AutoSQL" external.system.id="GRADLE" external.system.module.group="Group" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="Group" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="AutoSQL" linkedProjectPath="$MODULE_DIR$/../../AutoSQL" rootProjectPath="$MODULE_DIR$/../../AutoSQL" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../AutoSQL">
+      <excludeFolder url="file://$MODULE_DIR$/../../AutoSQL/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../AutoSQL/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../AutoSQL/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
